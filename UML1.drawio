@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Página-1" id="jfm4Rrlr7rEuqVsOvcBu">
     <mxGraphModel dx="1025" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,16 +54,22 @@
         <mxCell id="o_pJrItacFr6757scenL-16" value="+ Info_Préstamo(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ Prestar_Libro()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="o_pJrItacFr6757scenL-13" vertex="1">
           <mxGeometry y="98" width="160" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="E4ISM2O3RJsghghq0-ap-3" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="o_pJrItacFr6757scenL-2">
+        <mxCell id="E4ISM2O3RJsghghq0-ap-3" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="o_pJrItacFr6757scenL-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="186.5" as="sourcePoint" />
             <mxPoint x="400" y="186.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E4ISM2O3RJsghghq0-ap-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o_pJrItacFr6757scenL-14">
+        <mxCell id="E4ISM2O3RJsghghq0-ap-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="o_pJrItacFr6757scenL-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="420" y="410" as="sourcePoint" />
             <mxPoint x="240" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPRMB2HdWJRxpATsPNoy-2" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;exitX=0.494;exitY=1.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o_pJrItacFr6757scenL-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="159.5" y="260" as="sourcePoint" />
+            <mxPoint x="159.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
